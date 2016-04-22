@@ -1,4 +1,5 @@
 ﻿/* boom-lighbox: Pure javascript responsive lightbox */
+/* https://github.com/boominteractive/boom-lightbox */
 /* MIT License copyright (c) 2016 Boom Interactive Inc, Jason Jakob, boominteractiveinc@gmail.com */
 
 function boomLightBoxInit(selectorList) {
